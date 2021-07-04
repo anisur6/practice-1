@@ -1,0 +1,76 @@
+body {
+		background-image: url(apple.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+label {
+	margin-top: 20px;
+}
+
+.register {
+	background: rgba(0,0,0,0.4);
+	margin-top: 20px;
+	width: 400px;
+	box-shadow: 5px 5px 5px black;
+	font-size: 25px;
+	margin: 0px 0px 0px 440px;
+	border-radius: 30px;
+	}	
+
+.register h1 {
+		text-align: center;
+		padding: 25px;
+		color: #FAEBD7;
+		font-size:30px;
+		font-family: Arial Rounded MT Bold; 
+   }
+#register {
+		margin-left: 50px;
+	}
+.register label {
+		color: white;
+		font-family: time new romain;
+		font-size: 22px;
+		padding: 3px;
+	}
+	 #name {
+		border: none;
+		border-radius: 8px;
+		width: 280px;
+		height: 12px;
+		padding: 8px;
+	}
+	
+	#ph {
+			border: none;
+		border-radius: 8px;
+		width: 280px;
+		height: 12px;
+		padding: 8px;
+	}
+	#number {
+			border: none;
+		border-radius: 8px;
+		width: 270px;
+		height: 12px;
+		padding: 8px;
+	}
+.register input[type="submit"] {
+		border-radius: 8px;
+		margin-top: 20px;
+		width: 90px;
+		height: 40px;
+		text-align: center;
+		text-transform: uppercase;
+		padding: 6px 12px;
+		font-family: sans-safir;
+		font-size: 16px;
+		font-weight: bold;
+		width: 200px;
+		outline: none;
+		background-color: lightgreen;
+		cursor: pointer;
+	}
+	
+	
